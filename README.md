@@ -2,7 +2,7 @@
 
 A person's writing style is an example of a behaviour biometric. The words people may use and the way they structure their sentences is distinctive and can often be used to identify the author of a particular work. 
 
-In this project I aim to compare two economists and classify who is the primary author of an academic paper based on their language. 
+*In this project I aim to compare two economists and classify who is the primary author of an academic paper based on their language.*
 
 To ensure a large corpus, I will use Selenium to scrape Google Scholar, one of the most used academic search engines in the world. 
 

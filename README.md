@@ -14,5 +14,6 @@ To ensure a large corpus, I will use Selenium to scrape Google Scholar, one of t
 3. Applying some general rules in order to clean and prepare the text
 4. Processing the text using Spacy 
 5. Build a classification model to predict if the research paper was Julian Franks or La Porta
+6. Explore word embeddings with Word2Vec and TSNE
 
 

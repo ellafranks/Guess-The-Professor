@@ -16,4 +16,8 @@ To ensure a large corpus, I will use Selenium to scrape Google Scholar, one of t
 5. Build a classification model to predict if the research paper was Julian Franks or La Porta
 6. Explore word embeddings with Word2Vec, FastText and TSNE
 
+**Results:**
 
+- **90 %** accuracy on **5000** features using **CBOW models**
+- **75 %** accuracy on **250** features using **Word2Vec models**
+- **76 %** accuracy on **100** features using **FastText models**
